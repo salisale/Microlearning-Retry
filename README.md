@@ -1,7 +1,9 @@
 ## Microlearning Session
 Topic: Retry <br/>
 Date: 19Jan & 22Jan 2024 <br/>
-Repo contains: Resilience4J CircuitBreaker [demo files](https://github.com/salisale/Resilience4J-CircuitBreaker-demo/tree/master/src/main/java/salisa/alpegademo) (slides 29-31)
+Repo contains: 
+* Full PDF [slides](https://github.com/salisale/Microlearning-Retry/blob/master/slides.pdf) 
+* Resilience4J CircuitBreaker [demo files](https://github.com/salisale/Resilience4J-CircuitBreaker-demo/tree/master/src/main/java/salisa/alpegademo) (slides 29-31)
 
 
 ![slide1](https://github.com/salisale/Resilience4J-CircuitBreaker-demo/blob/master/slides/RetryMicrolearning_page-0001.jpg)
